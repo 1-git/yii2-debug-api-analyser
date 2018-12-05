@@ -10,7 +10,7 @@
         }
     },
     "require-dev": {
-        "yiisoft/yii-debug": "^2"
-    },
-    "require": {}
+        "yiisoft/yii-debug": "^2",
+        "1-git/url-params-generator": "*"
+    }
 }
