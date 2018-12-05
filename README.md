@@ -1,5 +1,8 @@
 Yii2 debug api analyser
------
+---
+
+####DOCUMENTATION IS NOT ACTUAL- WILL BE IN SOME DAYS
+
 This package help analyze database requests in yii2
 
 To use it, do the next steps:
