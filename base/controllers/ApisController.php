@@ -1,6 +1,6 @@
 <?php
 
-namespace oneGit\yii2DebugApiAnalyser\controllers;
+namespace oneGit\yii2DebugApiAnalyser\base\controllers;
 
 use Yii;
 use yii\web\Response;
